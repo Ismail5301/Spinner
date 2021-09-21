@@ -29,5 +29,5 @@ setTimeout(() => {
 
 setTimeout(() => {
   process.stdout.write('\r\\   ');
-}, 500);
+}, 1500);
 //array[0].map((_, colIndex) => array.map(row => row[colIndex]));
